@@ -16,4 +16,4 @@ The GitHub repository of examples is at [https://github.com/shirtsgroup/ensemble
 
 [Check out the review linked here](https://livecomsjournal.org/index.php/livecoms/article/view/v4i1e1583) for more information on the different elements of enhanced sampling simulations.
 
-![Person thinking about enhanced sampling methids](https://livecomsjournal.org/public/journals/15/submission_1583_2095_coverImage_en_US.jpg)
+<img src="[https://livecomsjournal.org/public/journals/15/submission_1583_2095_coverImage_en_US.jpg]" width="200" height="200" alt_text="Person thinking about enhanced sampling methods"/>
