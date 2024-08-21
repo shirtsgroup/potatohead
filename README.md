@@ -14,7 +14,7 @@ The GitHub repository of examples is at [https://github.com/shirtsgroup/ensemble
 
 #### Multiple Topology REXEE (MT-REXEE)
 
-Here's the [preprint of the MT-REXEE study](https://arxiv.org/abs/2408.11038)!  The current code can be found at the (MT-REXEE itHub Repository](https://github.com/ajfriedman22/MT-REXEE)
+Here's the [preprint of the MT-REXEE study](https://arxiv.org/abs/2408.11038)!  The current code can be found at the [MT-REXEE itHub Repository](https://github.com/ajfriedman22/MT-REXEE).
 
 #### Context of combining methods in enhanced sampling.
 
